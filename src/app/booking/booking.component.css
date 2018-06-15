@@ -1,0 +1,13 @@
+h1 {
+    text-align: left;
+    color:blue;
+}
+
+input{
+    
+     width:80%;
+     height:50;
+     padding: 10px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
